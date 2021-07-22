@@ -1,2 +1,2 @@
 # Eater
-Eater it is a spooky survival FPS game (total-conversion) for the Source engine.
+Eater it is a spooky survival FPS sourcemod (total-conversion) for the Source engine.
