@@ -1,2 +1,2 @@
 # Eater
-For Eater updates and etc.
+Eater it is a spooky survival FPS game (total-conversion) for the Source engine.
